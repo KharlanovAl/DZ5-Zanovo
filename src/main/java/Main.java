@@ -6,7 +6,7 @@ public class Main {
 
         FreelanceServes service = new FreelanceServes();
 
-        int vocation = service.calculateMonthsOfRest( 10000, 3000, 20000);
+        int vocation = service.calculateMonthsOfRest(10000, 3000, 20000);
 
         System.out.println(vocation);
     }

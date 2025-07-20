@@ -9,17 +9,17 @@ public class FreelanceServes {
 
         for (int month = 1; month <= 12; month++) {
             if (money >= threshold) {
-                    // Отдых
-                    money -= expenses;
-                    money /= 3;
-                    monthsOfRest++;
+                // Отдых
+                money -= expenses;
+                money /= 3;
+                monthsOfRest++;
             } else {
-                    // Работа
-                    money += income;
-                    money -= expenses;
+                // Работа
+                money += income;
+                money -= expenses;
             }
         }
 
-            return monthsOfRest;
-        }
+        return monthsOfRest;
     }
+}

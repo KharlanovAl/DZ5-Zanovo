@@ -21,25 +21,25 @@ public class FreelanceServesTest {
 }
 //    @Test
 //
-   //  public void testSecond() {
-     //   FreelanceServes service = new FreelanceServes();
+//  public void testSecond() {
+//   FreelanceServes service = new FreelanceServes();
 //
-   //      int result2 = service.calculateMonthsOfRest( 100000, 60000, 150000);
+//      int result2 = service.calculateMonthsOfRest( 100000, 60000, 150000);
 //
-   //      //System.out.println(vocation);
+//      //System.out.println(vocation);
 //
-   //      Assertions.assertEquals(2, result2);
-   // }//
+//      Assertions.assertEquals(2, result2);
+// }//
 
-    //@Test
+//@Test
 
-    //public void testThird() {
-    //    FreelanceServes service = new FreelanceServes();
+//public void testThird() {
+//    FreelanceServes service = new FreelanceServes();
 
-    //    int result3 = service.calculateMonthsOfRest( 5000, 6000, 10000);
+//    int result3 = service.calculateMonthsOfRest( 5000, 6000, 10000);
 
-        //System.out.println(vocation);
+//System.out.println(vocation);
 
-    //    Assertions.assertEquals(0, result3);
-    //}
+//    Assertions.assertEquals(0, result3);
+//}
 //}
