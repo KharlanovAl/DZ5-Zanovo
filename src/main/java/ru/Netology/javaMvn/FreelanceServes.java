@@ -1,3 +1,5 @@
+package ru.Netology.javaMvn;
+
 public class FreelanceServes {
 
 
